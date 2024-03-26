@@ -14,7 +14,7 @@ Clone the repository to your local machine.
 Compile the source code using a C++ compiler (e.g., g++).
 Run the compiled executable to see the blockchain in action.
 
-g++ -o blockchain blockchain.cpp
+g++ -o blockchain simpleblockchain.cpp
 ./blockchain
 
 Review the Output
